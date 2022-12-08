@@ -5,6 +5,7 @@ local Window = Library.CreateLib("PSX 8888 HUB", "Midnight")
 local Main = Window:NewTab("Trade Scam")
 local MainSection = Main:NewSection("Trade Scam")
 
+--Dupe
 local Dupe = Window:NewTab("Dupe")
 local DupeSection = Main:NewSection("PSX-Dupe")
 
