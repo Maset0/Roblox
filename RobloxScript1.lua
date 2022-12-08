@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Maset0/Roblox/main/script.lua"))()
-local Window = Library.CreateLib("PSX 8888 HUB", "Midnight")
+local Window = Library.CreateLib("PSX 8888 HUB Private 4.2", "Midnight")
 
 --MAIN
 local Main = Window:NewTab("Trade Scam")
